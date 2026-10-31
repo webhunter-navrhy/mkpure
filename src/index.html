@@ -1,0 +1,96 @@
+{% extends "_base.html" %}
+{% set titulek = 'MK Pure – upratovanie a čistenie pre firmy aj domácnosti, Zvolen' %}
+{% set cesta = '' %}
+{% block obsah %}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-text">
+      <p class="stitok">Zvolen a okolie · väčšie zákazky po celom Slovensku</p>
+      <h1>Upratovanie a čistenie pre firmy aj domácnosti</h1>
+      <p class="uvod">Váš partner pre čistotu a poriadok. Kancelárie, haly, sklady, okná, fasády a tepovanie. Šetrné technológie, precízna práca.</p>
+      <div class="akcie">
+        <a class="tlacitko" href="#kontakt">Nezáväzný dopyt</a>
+        <a class="tlacitko druhe" href="#cennik">Cenník</a>
+      </div>
+    </div>
+  </div>
+  <figure class="hero-foto">
+    {{ img('hala-hero.jpg', 'Veľká skladová hala s vyčistenou betónovou podlahou', sizes='100vw') }}
+    <span class="ciara-foto" aria-hidden="true"></span>
+  </figure>
+</section>
+
+<section class="sekce delic" id="sluzby">
+  <div class="wrap">
+    <h2>Čo pre vás urobíme</h2>
+    <ul class="sluzby" role="list">
+      {% for s in data.sluzby %}<li><h3>{{ s.nazev }}</h3><p>{{ s.popis }}</p></li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="sekce pas" id="cennik">
+  <div class="wrap cennik-grid">
+    <div>
+      <h2>Cenník služieb</h2>
+      <p class="poznamka">Orientačné ceny. Presnú cenu určíme podľa rozsahu a stavu priestoru, napíšte typ priestoru, približnú výmeru a kedy Vám to vyhovuje.</p>
+    </div>
+    <ul class="ceny zona" role="list">
+      <li><span>Upratovanie kancelárskych priestorov</span><b>od 1,50 € / m²</b></li>
+      <li><span>Čistenie fasád a soklov</span><b>od 3,80 € / m²</b></li>
+      <li><span>Upratovanie skladových priestorov</span><b>podľa rozsahu</b></li>
+      <li><span>Upratovanie bytov a domov</span><b>podľa rozsahu</b></li>
+      <li><span>Tepovanie gaučov a pohoviek</span><b>podľa rozsahu</b></li>
+      <li><span>Tepovanie automobilov</span><b>podľa rozsahu</b></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sekce delic" id="praca">
+  <div class="wrap">
+    <h2>Naša práca</h2>
+    <div class="galeria">
+      <figure class="g1 zona">{{ img('hala-sirka.jpg', 'Skladová hala s rampami po upratovaní', sizes='(min-width: 60rem) 36rem, 100vw') }}<figcaption>Skladová hala po čistení</figcaption></figure>
+      <figure class="g2">{{ img('okno-cistenie.jpg', 'Umývanie okna handrou a čistiacim prostriedkom', sizes='(min-width: 60rem) 20rem, 100vw') }}<figcaption>Okná</figcaption></figure>
+      <figure class="g3">{{ img('hala-doky.jpg', 'Vyčistená podlaha pri nakladacích rampách skladu', sizes='(min-width: 60rem) 20rem, 100vw') }}<figcaption>Nakladacie rampy</figcaption></figure>
+      <figure class="g4">{{ img('okno-ciste.jpg', 'Vyčistený okenný rám a parapet', sizes='(min-width: 60rem) 20rem, 100vw') }}<figcaption>Rámy a parapety</figcaption></figure>
+      <figure class="g5">{{ img('hala-cista-02.jpg', 'Čistá priemyselná hala po upratovaní', sizes='(min-width: 60rem) 20rem, 100vw') }}<figcaption>Podlaha haly</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<section class="sekce pas" id="zakaznici">
+  <div class="wrap">
+    <h2>Naši zákazníci</h2>
+    <ul class="loga" role="list">
+      {% for n,a in [('aumovio','Aumovio'),('agroservis','Agroservis'),('empiria','Empiria'),('jm-stavby','JM stavby'),('vedos','Vedos'),('zlasky','Zlasky'),('osko','OSKO'),('sbd-zvolen','SBD Zvolen')] %}
+      <li><img src="{{ asset('img/clients/' ~ n ~ '.png') }}" alt="{{ a }}" loading="lazy" height="40"></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="sekce delic" id="o-nas">
+  <div class="wrap onas">
+    <figure>{{ img('portrait.jpg', 'Ing. Matej Košťál, zakladateľ MK Pure', sizes='(min-width: 60rem) 22rem, 70vw') }}</figure>
+    <div>
+      <h2>O nás</h2>
+      <p class="velke">Život nás niekedy zastaví, aby sme našli novú silu.</p>
+      <p>Z malej brigády v upratovaní vznikla vášeň pre čistotu, precíznosť a poctivú prácu.</p>
+      <p>Dnes je MK Pure spoľahlivým partnerom pre firmy aj domácnosti po celom Slovensku.</p>
+      <p class="podpis">Ing. Matej Košťál, zakladateľ</p>
+    </div>
+  </div>
+</section>
+
+<section class="sekce tmava" id="kontakt">
+  <div class="wrap kontakt-grid">
+    <div>
+      <h2>Napíšte nám</h2>
+      <p>Napíšte typ priestoru, približnú výmeru a kedy Vám to vyhovuje. Ozveme sa Vám s termínom a cenou. Ak to súri, zavolajte.</p>
+      <p class="kontakt-r"><a href="tel:{{ site.kontakt.telefon|replace(' ', '') }}">{{ site.kontakt.telefon }}</a><br>A. Nográdyho 561/8, 960 01 Zvolen</p>
+    </div>
+    {% include "_formular.html" %}
+  </div>
+</section>
+{% endblock %}

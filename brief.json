@@ -1,0 +1,337 @@
+{
+ "slug": "mkpure",
+ "zdroj_url": "http://www.mkpure.eu",
+ "firma": "MK Pure",
+ "obor": [
+  "e-shop / obchod"
+ ],
+ "ico": "55054455",
+ "ares": {
+  "chyba": "ARES HTTP 404"
+ },
+ "kontakty": {
+  "emaily": [],
+  "telefony": [
+   "+421 907 489 578"
+  ],
+  "adresa": "A. Nográdyho 561/8, 960 01, Zvolen",
+  "socialni_site": [
+   "https://www.facebook.com/people/MK-Pure-Profesion%C3%A1lne-upratovanie/100094167325905/",
+   "https://www.instagram.com/mkpure.eu/"
+  ]
+ },
+ "logo": {
+  "soubor": "podklady/logo.jpg",
+  "zdroj": "https://mkpure.eu/opengraph-image.jpg?opengraph-image.01dusaah_k0j-.jpg",
+  "rozmery": [
+   1200,
+   630
+  ]
+ },
+ "barvy": {
+  "css_promenne": {
+   "primary": "#1f6049",
+   "primary-foreground": "#fafafa",
+   "secondary": "#f5f5f5",
+   "secondary-foreground": "#171717",
+   "accent": "#f5f5f5",
+   "accent-foreground": "#171717",
+   "brand-orange": "#eb781f"
+  },
+  "z_css": [
+   "#1f6049",
+   "#d97706",
+   "#dc2626",
+   "#0284c7"
+  ],
+  "z_loga": [
+   "#1f6049",
+   "#70714a"
+  ],
+  "theme_color": "#ffffff",
+  "doporucene": [
+   "#1f6049",
+   "#70714a",
+   "#d97706"
+  ]
+ },
+ "fotky": [],
+ "fakta": [
+  {
+   "typ": "h1",
+   "text": "Upratovanie a čistenie pre firmy aj domácnosti",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h2",
+   "text": "Čo pre vás urobíme",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Upratovanie kancelárskych priestorov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Strojové čistenie podláh",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Umývanie okien a presklených fasád",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Čistenie fasád a vonkajších plôch",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Upratovanie firiem a prevádzok",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Maľovanie čiar v skladoch",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Upratovanie domácností",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Tepovanie kobercov a sedačiek",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h2",
+   "text": "Cenník služieb",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Upratovanie kancelárskych priestorov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Upratovanie skladových priestorov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Čistenie fasád",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Upratovanie bytov a domov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Tepovanie gaučov a pohoviek",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h3",
+   "text": "Tepovanie automobilov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h2",
+   "text": "Naša práca",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "h2",
+   "text": "Napíšte nám",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Váš partner pre čistotu a poriadok. Pôsobíme po celom Slovensku. Šetrné technológie, precízna práca.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Upratovanie kancelárskych priestorov Pravidelné aj jednorazové upratovanie kancelárií, zasadačiek, recepcií a sociálnych zariadení. Od 1,50 € za m². Viac o službe →",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Pravidelné aj jednorazové upratovanie kancelárií, zasadačiek, recepcií a sociálnych zariadení. Od 1,50 € za m².",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Strojové čistenie podláh Hĺbkové strojové čistenie priemyselných, epoxidových, PVC a keramických podláh. Výrobné haly, sklady, obchody aj administratíva. Viac o službe →",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Hĺbkové strojové čistenie priemyselných, epoxidových, PVC a keramických podláh. Výrobné haly, sklady, obchody aj administratíva.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Umývanie okien a presklených fasád Veľkoformátové okná, presklené vstupy, výklady a fasády administratívnych budov. Dokonalý lesk bez šmúh. Viac o službe →",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Veľkoformátové okná, presklené vstupy, výklady a fasády administratívnych budov. Dokonalý lesk bez šmúh.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Čistenie fasád a vonkajších plôch Fasády a sokle od 3,80 € za m². Vysokotlakové čistenie chodníkov, parkovísk, spevnených plôch a revitalizácia zámkovej dlažby. Viac o službe →",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Fasády a sokle od 3,80 € za m². Vysokotlakové čistenie chodníkov, parkovísk, spevnených plôch a revitalizácia zámkovej dlažby.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Upratovanie firiem a prevádzok Komplexný servis pre skladové, výrobné a logistické priestory vrátane upratovania po stavebných a rekonštrukčných prácach. Viac o službe →",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Komplexný servis pre skladové, výrobné a logistické priestory vrátane upratovania po stavebných a rekonštrukčných prácach.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Maľovanie čiar v skladoch Vyznačenie trás, státí a zón v skladoch a priemyselných budovách. Viac o službe →",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vyznačenie trás, státí a zón v skladoch a priemyselných budovách.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Upratovanie domácností Od pravidelného udržiavacieho upratovania až po generálny poriadok po rekonštrukcii. Viac o službe →",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Od pravidelného udržiavacieho upratovania až po generálny poriadok po rekonštrukcii.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Tepovanie kobercov a sedačiek Koberce, sedačky, kreslá aj interiéry áut. Zbavíme nábytok nečistôt aj roztočov. Viac o službe →",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Koberce, sedačky, kreslá aj interiéry áut. Zbavíme nábytok nečistôt aj roztočov.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Umývanie presklených fasád a veľkoformátových okien",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Čistenie presklených vstupov, výkladov a administratívnych budov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Hĺbkové čistenie priemyselných, epoxidových, PVC a keramických podláh",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vysokotlakové čistenie chodníkov, spevnených plôch, parkovísk a vstupných priestorov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Čistenie fasád, soklov a ďalších vonkajších povrchov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Čistenie skladových, výrobných a logistických priestorov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Odstraňovanie odolných prevádzkových nečistôt a ošetrenie povrchov",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Život nás niekedy zastaví, aby sme našli novú silu.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Z malej brigády v upratovaní vznikla vášeň pre čistotu, precíznosť a poctivú prácu.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Dnes je MK Pure spoľahlivým partnerom pre firmy aj domácnosti po celom Slovensku.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Kancelárie, zasadačky, recepcie a sociálne zariadenia. Pravidelný aj jednorazový servis, cena podľa frekvencie a rozsahu.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Strojové čistenie podláh, odprášenie vysokých regálov aj čistenie manipulačnej techniky.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Fasády, sokle a ďalšie vonkajšie povrchy. Cena podľa typu povrchu a miery znečistenia.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vysávanie a umývanie podláh, dezinfekcia kúpeľne a toalety, utieranie prachu. Cena sa líši podľa rozsahu znečistenia.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Hĺbkové tepovanie preniká do vlákien a vyťahuje aj roky usadenú špinu. Oživí farby.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ozveme sa vám s termínom a cenou. Ak to súri, zavolajte.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Napíšte typ priestoru, približnú výmeru a kedy vám to vyhovuje.",
+   "zdroj": "https://mkpure.eu/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Upratovanie precízne a za rozumnú cenu . Pôsobíme po celom Slovensku .",
+   "zdroj": "https://mkpure.eu/"
+  }
+ ],
+ "chybi": [
+  "e-mail",
+  "fotky firmy/provozu/produktů (nalezeno 0, potřeba aspoň 6)",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": "Upratovanie a čistenie pre firmy aj domácnosti: kancelárie, haly, sklady, okná, fasády a tepovanie. Zvolen a okolie, väčšie zákazky po celom Slovensku."
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "mkpure",
+  "nazev": "MK Pure",
+  "url": "https://webhunter-navrhy.github.io/mkpure/",
+  "base": "/mkpure/",
+  "lang": "sk",
+  "popis": "Upratovanie a čistenie pre firmy aj domácnosti: kancelárie, haly, sklady, okná, fasády a tepovanie. Zvolen a okolie, väčšie zákazky po celom Slovensku.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "hala-hero.jpg",
+  "logo": "",
+  "theme_color": "#1f6049",
+  "typ": "LocalBusiness",
+  "ico": "55054455",
+  "kontakt": {
+    "email": "",
+    "telefon": "+421 907 489 578",
+    "adresa": {"ulice": "A. Nográdyho 561/8", "psc": "960 01", "mesto": "Zvolen", "zeme": "SK"}
+  },
+  "oteviraci_doba": [],
+  "sameas": ["https://www.instagram.com/mkpure.eu/", "https://www.facebook.com/people/MK-Pure-Profesion%C3%A1lne-upratovanie/100094167325905/"],
+  "cenove_rozpeti": "€",
+  "formular": {"endpoint": "", "demo": true, "predmet": "Dopyt z webu MK Pure"},
+  "nav": [
+    {"text": "Služby", "href": "#sluzby"},
+    {"text": "Cenník", "href": "#cennik"},
+    {"text": "O nás", "href": "#o-nas"},
+    {"text": "Kontakt", "href": "#kontakt"}
+  ]
+}

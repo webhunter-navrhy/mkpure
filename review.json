@@ -1,0 +1,17 @@
+{
+  "znamka": 8,
+  "slabiny": [
+    "Hero na PC (1440): na první obrazovce je z fotky haly vidět jen strop a vrata. Podlaha s oranžovou čárkovanou čárou, tedy hlavní nápad, začíná až pod ohybem. Zmenšit mezery nad H1 a pod tlačítky nebo snížit výřez fotky (object-position na spodní třetinu), aby byla značka na podlaze vidět hned bez scrollu.",
+    "Naša práca na PC: místo zadaného 1 velká + 2 + 2 je mřížka 2 + 3 a spodní tři dlaždice jsou malé a podobné, dvě ukazují skoro stejnou halu (Nakladacie rampy, Podlaha haly). Velkou fotku haly roztáhnout přes 2 řádky vlevo a vpravo dát 2 + 2. Jednu ze dvou téměř stejných fotek haly nahradit hala-sirka nebo okno-ciste, aby se záběry neopakovaly.",
+    "Odkaz pro přeskočení na začátek v _base.html je česky („Přeskočit na obsah“), ale web je slovenský. Přepsat na „Preskočiť na obsah“ a projít i 404.html a texty formuláře, jestli v nich nezůstala čeština ze startéru."
+  ],
+  "zavazne": [],
+  "silne": [
+    "Výtky z minulého kola jsou opravené. Oranžové čárkované značení podlahy teď prochází celým webem: čára po podlaze na fotce v hero, oddělovače sekcí, rohové značky zóny u ceníku a u velké fotky v Naša práca.",
+    "Fotka haly je v hero přes celou šířku. Galerie má 5 fotek s věcnými popisky (hala, okná, rampy, rámy, podlaha).",
+    "Brand drží: zelené logo vlevo v hlavičce, paleta ze zelené z loga a jeden oranžový akcent. V hlavičce je telefon jako CTA a v kódu je patička s bílým logem, IČO, adresou, Instagramem a Facebookem.",
+    "Tlačítko „Odoslať“ je zaoblené s bílým textem. Typografie stojí na jedné rodině (Schibsted Grotesk), háčky jsou v pořádku a QA bez chyb a přetékání na všech 6 šířkách."
+  ],
+  "verdikt": "Všechny tři minulé výtky jsou opravené a koncept značení podlahy je vidět v celém webu, ne jen v hero. Bez závažných vad, dá se poslat. Zbývají jen drobnosti ve výřezu hero a v mřížce galerie.",
+  "_hash": "75a318e1a1c09ed6ca6af3de8eeb72649803f46d"
+}
